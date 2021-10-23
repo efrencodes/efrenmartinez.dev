@@ -4,7 +4,7 @@ import Timeline from '../components/Timeline'
 import Footer from '../components/Footer'
 
 export const getStaticProps = async () => {
-	const URL = 'https://efrencodes.com/'
+	const URL = 'https://www.efrencodes.com/'
 	const experiencia = await fetch(`${URL}api/experiencia`, {
 		method: 'GET'
 	}).then((res) => res.json())

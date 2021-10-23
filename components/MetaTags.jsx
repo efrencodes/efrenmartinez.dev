@@ -4,7 +4,7 @@ const MetaTags = () => {
 	return (
 		<Head>
 			<title>Efrén Martínez | FrontEnd Engineer</title>
-			<link rel="canonical" href="https://efrencodes.com/" />
+			<link rel="canonical" href="https://www.efrencodes.com/" />
 			<link rel="preconnect" href="https://fonts.googleapis.com" />
 			<link
 				rel="preconnect"
